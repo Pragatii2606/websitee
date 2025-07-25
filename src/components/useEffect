@@ -1,0 +1,7 @@
+import 'aos/dist/aos.css'
+import AOS from 'aos'
+
+useEffect(() => {
+  AOS.init()
+}, [])
+
